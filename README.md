@@ -1,6 +1,7 @@
 # dkmi-office365-analyzer
 checks any domain for dmarc, selector entries, turnig on dkmi in office 365
-please visit https://blog.it-koehler.com/Archive/1450 for more information in german (english version will be available soon) 
+please visit https://blog.it-koehler.com/Archive/1450 for more information in german 
+for english version visit: https://blog.it-koehler.com/en/Archive/1471
 
 Checks all necessary dns settings for dkmi in office 365!
 
