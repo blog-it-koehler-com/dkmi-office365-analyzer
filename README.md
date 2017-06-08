@@ -7,4 +7,4 @@ Checks all necessary dns settings for dkmi in office 365!
 
 
 08/06/2017
-New Version of the script is available; asks now for domain and dns settings (ipadress fo the dns server), can also be executed directly with powershell (rightklick "open in powershell")
+New Version of the script is available; asks now for domain and dns settings (ipadress fo the dns server), can also be executed directly with powershell (rightclick "open in powershell")
